@@ -1,0 +1,625 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 70,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "The following case study outlines how our\nAI principles and review processes shaped"
+    } ]
+  }, {
+    "tStartMs": 4750,
+    "dDurationMs": 5429,
+    "segs": [ {
+      "utf8": "Google Cloud’s approach to facial recognition\ntechnology Let's start with the outcome of"
+    } ]
+  }, {
+    "tStartMs": 10179,
+    "dDurationMs": 8031,
+    "segs": [ {
+      "utf8": "our review In 2019 Google Cloud launched Celebrity\nRecognition, a tightly scoped API to Media"
+    } ]
+  }, {
+    "tStartMs": 18210,
+    "dDurationMs": 6559,
+    "segs": [ {
+      "utf8": "\u0026 Entertainment customers looking to tag celebrities\nin their professional licensed media content."
+    } ]
+  }, {
+    "tStartMs": 24769,
+    "dDurationMs": 4301,
+    "segs": [ {
+      "utf8": "Searching through video content has been a\ndifficult and time-intensive task without"
+    } ]
+  }, {
+    "tStartMs": 29070,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "expensive tagging processes."
+    } ]
+  }, {
+    "tStartMs": 31550,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "This makes it difficult for creators to organize\ntheir content and offer personalized experiences."
+    } ]
+  }, {
+    "tStartMs": 37630,
+    "dDurationMs": 5769,
+    "segs": [ {
+      "utf8": "The Celebrity Recognition API is a pre-trained\nAI model — meaning it’s not customizable—"
+    } ]
+  }, {
+    "tStartMs": 43399,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "that’s able to recognize thousands of popular\nactors and athletes from around the world"
+    } ]
+  }, {
+    "tStartMs": 47940,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "based on licensed images."
+    } ]
+  }, {
+    "tStartMs": 50220,
+    "dDurationMs": 3609,
+    "segs": [ {
+      "utf8": "This is Google Cloud’s first enterprise\nproduct with facial recognition."
+    } ]
+  }, {
+    "tStartMs": 53829,
+    "dDurationMs": 3761,
+    "segs": [ {
+      "utf8": "So, how did we get here?"
+    } ]
+  }, {
+    "tStartMs": 57590,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Facial recognition was identified as a key\nconcern for potential unfair bias."
+    } ]
+  }, {
+    "tStartMs": 62280,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "In early 2016, Cloud leadership decided facial\nrecognition would not be a part of the Cloud"
+    } ]
+  }, {
+    "tStartMs": 68140,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "Vision API offering, despite it being a top\nrequest from our customers."
+    } ]
+  }, {
+    "tStartMs": 73450,
+    "dDurationMs": 4931,
+    "segs": [ {
+      "utf8": "To explore this further, we took facial recognition\nthrough an early iteration of our AI Principles"
+    } ]
+  }, {
+    "tStartMs": 78381,
+    "dDurationMs": 2308,
+    "segs": [ {
+      "utf8": "review process."
+    } ]
+  }, {
+    "tStartMs": 80689,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "These reviews gave us the open forum and time\nto think critically about the research, societal"
+    } ]
+  }, {
+    "tStartMs": 85979,
+    "dDurationMs": 7291,
+    "segs": [ {
+      "utf8": "context, and challenges of the technology\nWe’ve seen how useful the spectrum of face-related"
+    } ]
+  }, {
+    "tStartMs": 93270,
+    "dDurationMs": 3489,
+    "segs": [ {
+      "utf8": "technologies can be for people and for society\noverall."
+    } ]
+  }, {
+    "tStartMs": 96759,
+    "dDurationMs": 4561,
+    "segs": [ {
+      "utf8": "They can make products safer and more secure\nlike using face authentication to control"
+    } ]
+  }, {
+    "tStartMs": 101320,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "access to sensitive information There are\nuses with tremendous social good, such as"
+    } ]
+  }, {
+    "tStartMs": 107020,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "nonprofits using facial recognition to fight\ntrafficking against minors But it’s important"
+    } ]
+  }, {
+    "tStartMs": 112680,
+    "dDurationMs": 5329,
+    "segs": [ {
+      "utf8": "that these technologies are developed thoughtfully\nand responsibly."
+    } ]
+  }, {
+    "tStartMs": 118009,
+    "dDurationMs": 4691,
+    "segs": [ {
+      "utf8": "Google shares many of the widely-discussed\nconcerns over the misuse of facial recognition"
+    } ]
+  }, {
+    "tStartMs": 122700,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "technology, namely: It needs to be fair, so\nit doesn’t reinforce or amplify existing"
+    } ]
+  }, {
+    "tStartMs": 129020,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "biases, especially where this might impact\nunderrepresented groups."
+    } ]
+  }, {
+    "tStartMs": 134120,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "It should not be used in surveillance that\nviolates internationally accepted norms And"
+    } ]
+  }, {
+    "tStartMs": 139010,
+    "dDurationMs": 6630,
+    "segs": [ {
+      "utf8": "it needs to protect people’s privacy, providing\nthe right level of transparency and control."
+    } ]
+  }, {
+    "tStartMs": 145640,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "To reduce the potential for misuse and make\nthe technology available for an enterprise"
+    } ]
+  }, {
+    "tStartMs": 149970,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "use case aligned with our AI principles, Google\ndecided to pursue a tightly scoped facial"
+    } ]
+  }, {
+    "tStartMs": 152110,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "recognition application for celebrity recognition."
+    } ]
+  }, {
+    "tStartMs": 153110,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Google decided to pursue a tightly scoped\nfacial recognition application for celebrity"
+    } ]
+  }, {
+    "tStartMs": 157350,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "recognition."
+    } ]
+  }, {
+    "tStartMs": 158350,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Google decided to pursue a tightly scoped\nfacial recognition application for celebrity"
+    } ]
+  }, {
+    "tStartMs": 159390,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "recognition."
+    } ]
+  }, {
+    "tStartMs": 160390,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "To prepare for launch readiness of the Celebrity\nRecognition API, along with our own internal"
+    } ]
+  }, {
+    "tStartMs": 164800,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "review processes, we sought help from external\nexperts and civil rights leaders."
+    } ]
+  }, {
+    "tStartMs": 170770,
+    "dDurationMs": 5109,
+    "segs": [ {
+      "utf8": "We recognized that our lived experience wouldn’t\nnecessarily align with the lived experience"
+    } ]
+  }, {
+    "tStartMs": 175879,
+    "dDurationMs": 6991,
+    "segs": [ {
+      "utf8": "of impacted people, and we needed help incorporating\nthose experiences and concerns into our review"
+    } ]
+  }, {
+    "tStartMs": 182870,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "Systemic underrepresentation of black and\nminoritized actors in society was a key factor"
+    } ]
+  }, {
+    "tStartMs": 188360,
+    "dDurationMs": 4489,
+    "segs": [ {
+      "utf8": "in our evaluation given the product’s intended\nuse."
+    } ]
+  }, {
+    "tStartMs": 192849,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "To focus even further on potential impacts\nwe engaged with an external human rights consultancy—"
+    } ]
+  }, {
+    "tStartMs": 199159,
+    "dDurationMs": 5991,
+    "segs": [ {
+      "utf8": "called Business for Social Responsibility,\nor BSR— to conduct an in-depth Human Rights"
+    } ]
+  }, {
+    "tStartMs": 205150,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Impact Assessment."
+    } ]
+  }, {
+    "tStartMs": 207590,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "Engaging with BSR played an essential role\nin shaping the API’s capabilities and policies,"
+    } ]
+  }, {
+    "tStartMs": 213280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "integrating human rights considerations throughout\nthe product development lifecycle."
+    } ]
+  }, {
+    "tStartMs": 217920,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "It also revealed where the solution needed\nadditional oversight and validated our earlier"
+    } ]
+  }, {
+    "tStartMs": 222570,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "decision not to offer general purpose facial\nrecognition APIs."
+    } ]
+  }, {
+    "tStartMs": 227970,
+    "dDurationMs": 7349,
+    "segs": [ {
+      "utf8": "Their full report is publicly available and\ncan be found in the resources section."
+    } ]
+  }, {
+    "tStartMs": 235319,
+    "dDurationMs": 5611,
+    "segs": [ {
+      "utf8": "Based on BSR’s recommendations Google implemented\na number of safeguards, including: Making"
+    } ]
+  }, {
+    "tStartMs": 240930,
+    "dDurationMs": 7009,
+    "segs": [ {
+      "utf8": "the Celebrity Recognition API available only\nto qualifying customers behind an allow list."
+    } ]
+  }, {
+    "tStartMs": 247939,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "The database of “Celebrity” individuals\nis carefully defined and restricted to a predefined"
+    } ]
+  }, {
+    "tStartMs": 253140,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "list."
+    } ]
+  }, {
+    "tStartMs": 254550,
+    "dDurationMs": 4159,
+    "segs": [ {
+      "utf8": "An opt-out policy is implemented to enable\ncelebrities to remove themselves from the"
+    } ]
+  }, {
+    "tStartMs": 258709,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "list."
+    } ]
+  }, {
+    "tStartMs": 260009,
+    "dDurationMs": 4281,
+    "segs": [ {
+      "utf8": "And an expanded terms of service apply to\nthe API."
+    } ]
+  }, {
+    "tStartMs": 264290,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "These measures serve to avoid and mitigate\npotential harms and provide Google with a"
+    } ]
+  }, {
+    "tStartMs": 268650,
+    "dDurationMs": 4989,
+    "segs": [ {
+      "utf8": "firm basis to reduce risks to human rights."
+    } ]
+  }, {
+    "tStartMs": 273639,
+    "dDurationMs": 4651,
+    "segs": [ {
+      "utf8": "Another key step in Google’s review of the\nCelebrity Recognition API was a series of"
+    } ]
+  }, {
+    "tStartMs": 278290,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "fairness analyses."
+    } ]
+  }, {
+    "tStartMs": 280430,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "Fundamentally, these fairness tests sought\nto evaluate the performance of the API in"
+    } ]
+  }, {
+    "tStartMs": 285660,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "terms of Recall and Precision."
+    } ]
+  }, {
+    "tStartMs": 288080,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "In other words, we evaluated the performance\nof the API both for individual skin tone and"
+    } ]
+  }, {
+    "tStartMs": 294550,
+    "dDurationMs": 5149,
+    "segs": [ {
+      "utf8": "gender groups, but also for the combination\nof those groups —for example, for women"
+    } ]
+  }, {
+    "tStartMs": 299699,
+    "dDurationMs": 4631,
+    "segs": [ {
+      "utf8": "with darker skin tones, or men with lighter\nskin tones."
+    } ]
+  }, {
+    "tStartMs": 304330,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "Over three separate fairness tests, we found\nerrors between our training datasets and one"
+    } ]
+  }, {
+    "tStartMs": 309080,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "of the benchmarks based on skin tone."
+    } ]
+  }, {
+    "tStartMs": 312180,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Those errors gave us pause and we decided\nto take a deeper look at the root causes."
+    } ]
+  }, {
+    "tStartMs": 317780,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "The first thing we checked was whether the\nskin tone labels in our dataset were accurate."
+    } ]
+  }, {
+    "tStartMs": 323330,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "It was discovered they weren’t completely\naccurate for medium- and darker- skinned people."
+    } ]
+  }, {
+    "tStartMs": 328590,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "We relabelled the skin tones according to\nthe Fitzpatrick skin type scale as used in"
+    } ]
+  }, {
+    "tStartMs": 333440,
+    "dDurationMs": 6430,
+    "segs": [ {
+      "utf8": "the seminal “‘Gender Shades”’ research\nby Joy Buolamwini and Timnit Gebru."
+    } ]
+  }, {
+    "tStartMs": 339870,
+    "dDurationMs": 5549,
+    "segs": [ {
+      "utf8": "This research evaluated bias present in automated\nfacial analysis algorithms and datasets with"
+    } ]
+  }, {
+    "tStartMs": 345419,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "respect to skin tone and gender."
+    } ]
+  }, {
+    "tStartMs": 348940,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Relabelling the skin tones reduced error rates,\nbut we found further discrepancies."
+    } ]
+  }, {
+    "tStartMs": 353440,
+    "dDurationMs": 5259,
+    "segs": [ {
+      "utf8": "A small subset of actors represented a significant\nproportion of the total missed identifications"
+    } ]
+  }, {
+    "tStartMs": 358699,
+    "dDurationMs": 6131,
+    "segs": [ {
+      "utf8": "in the evaluation datasets Especially for\ndarker-skinned men Knowing the majority of"
+    } ]
+  }, {
+    "tStartMs": 364830,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "error rates were affecting a select few actors\nwe looked at the actors with the largest number"
+    } ]
+  }, {
+    "tStartMs": 370229,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "of errors and found they had nearly a 100%\nfalse rejection rate."
+    } ]
+  }, {
+    "tStartMs": 375270,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "Due to the reduced scope of the Celebrity\nRecognition API we were able to go one by"
+    } ]
+  }, {
+    "tStartMs": 379820,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "one through the test set and gallery to determine\nwhat the problem was."
+    } ]
+  }, {
+    "tStartMs": 384360,
+    "dDurationMs": 4989,
+    "segs": [ {
+      "utf8": "We found that for three black actors our celebrity\ngallery had images of them as adults while"
+    } ]
+  }, {
+    "tStartMs": 389349,
+    "dDurationMs": 3371,
+    "segs": [ {
+      "utf8": "the training set had images of them as much\nyounger actors."
+    } ]
+  }, {
+    "tStartMs": 392720,
+    "dDurationMs": 4949,
+    "segs": [ {
+      "utf8": "Our model could not recognize the adult actors\nas the younger characters they had played"
+    } ]
+  }, {
+    "tStartMs": 397669,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "years prior."
+    } ]
+  }, {
+    "tStartMs": 399699,
+    "dDurationMs": 4711,
+    "segs": [ {
+      "utf8": "In this instance, we were able to correct\nthat problem by expanding the training dataset"
+    } ]
+  }, {
+    "tStartMs": 404410,
+    "dDurationMs": 4709,
+    "segs": [ {
+      "utf8": "to include images of celebrities at many different\npoints in their careers and at different ages"
+    } ]
+  }, {
+    "tStartMs": 409119,
+    "dDurationMs": 4261,
+    "segs": [ {
+      "utf8": ". This removed the discrepancy between error\nrates."
+    } ]
+  }, {
+    "tStartMs": 413380,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "This experience drove home the importance\nof taking the time to look at the overall"
+    } ]
+  }, {
+    "tStartMs": 417259,
+    "dDurationMs": 5851,
+    "segs": [ {
+      "utf8": "context of the solution Namely, the issues\nof representation in media."
+    } ]
+  }, {
+    "tStartMs": 423110,
+    "dDurationMs": 5529,
+    "segs": [ {
+      "utf8": "Only with an appreciation of that context,\ntightly scoping the solution, and after rigorously"
+    } ]
+  }, {
+    "tStartMs": 428639,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "testing and improving the API for fairness\nwere we able to get comfortable launching"
+    } ]
+  }, {
+    "tStartMs": 433259,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "the API."
+    } ]
+  }, {
+    "tStartMs": 434980,
+    "dDurationMs": 7189,
+    "segs": [ {
+      "utf8": "This is an example of why responsible development\nof AI leads to successful integration of AI."
+    } ]
+  }, {
+    "tStartMs": 442169,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "In mid 2020 we welcomed the news that other\ntechnology companies were limiting or exiting"
+    } ]
+  }, {
+    "tStartMs": 447330,
+    "dDurationMs": 4989,
+    "segs": [ {
+      "utf8": "their facial recognition business given the\nwider concerns about the technology."
+    } ]
+  }, {
+    "tStartMs": 452319,
+    "dDurationMs": 5541,
+    "segs": [ {
+      "utf8": "Ultimately our AI governance process allowed\nus to research and scope a product that aligned"
+    } ]
+  }, {
+    "tStartMs": 457860,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "with our AI principles."
+    } ]
+  }, {
+    "tStartMs": 458860,
+    "dDurationMs": 2309,
+    "segs": [ {
+      "utf8": "and scope a product that aligned with our\nAI principles."
+    } ]
+  }, {
+    "tStartMs": 461169,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "Today, Google has released the Monk Skin Tone\n(MST) Scale, a more refined skin tone scale"
+    } ]
+  }, {
+    "tStartMs": 466919,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "that will help us better understand representation\nin imagery."
+    } ]
+  } ]
+}
